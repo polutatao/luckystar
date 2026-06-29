@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782744807269,
+  "timestamp": 1782744812455,
   "appVersion": "6.9.9 (2026.06.29)",
   "tables": [
     "characters",
@@ -66,7 +66,7 @@
     "_migration"
   ],
   "chunkedTables": {
-    "stickers": 2
+    "stickers": 3
   },
   "completedTables": {
     "worldBooks": true
