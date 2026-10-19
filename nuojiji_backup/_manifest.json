@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1792340439188,
+  "timestamp": 1792389139267,
   "appVersion": "",
   "source": "auto",
   "device": "app-ios",
@@ -127,10 +127,11 @@
     "tmSessions": 2,
     "tmStories": 14,
     "xinshengRounds": 4,
-    "imageStore": 162,
+    "imageStore": 196,
     "stickerStore": 8,
     "thinkingStore": 19,
-    "rowFieldItems": 5
+    "rowFieldItems": 5,
+    "assets": 2
   },
   "completedTables": {
     "characters": true,
@@ -226,7 +227,6 @@
     "chatVariables": true,
     "plugins": true,
     "avatarFrames": true,
-    "assets": true,
     "pluginAssets": true,
     "pluginData": true,
     "chatSettingsPresets": true,
@@ -243,9 +243,9 @@
   "inProgress": false,
   "files": {
     "characters.json": {
-      "h": "g:f3cadc35062af79387ac8b95424cd9509a74e370",
+      "h": "g:c9dc915530184656d750f45919921ce96fce2736",
       "gz": false,
-      "b": "f3cadc35062af79387ac8b95424cd9509a74e370"
+      "b": "c9dc915530184656d750f45919921ce96fce2736"
     },
     "friendRequests.json": {
       "h": "g:0751b30e459df31960e207120e65d875c8ab1727",
@@ -288,19 +288,19 @@
       "b": "e3f435a7b690307f7b382a24df07615e8172e010"
     },
     "_localStorage.json": {
-      "h": "g:6e7be2ab3e9d22dd63dc4fc1414650fbc342403f",
+      "h": "g:fcce05a8f79f2d31aa11f55abdbe76b5eb6446c2",
       "gz": false,
-      "b": "6e7be2ab3e9d22dd63dc4fc1414650fbc342403f"
-    },
-    "userState.json": {
-      "h": "g:4f49bfcacb1b00f38997a604faa8bd1e096c757d",
-      "gz": false,
-      "b": "4f49bfcacb1b00f38997a604faa8bd1e096c757d"
+      "b": "fcce05a8f79f2d31aa11f55abdbe76b5eb6446c2"
     },
     "userPosts.json": {
-      "h": "g:ccc87a111ed14f35acf22cff13a2fe57f14ca309",
+      "h": "g:91f21902b78d69ca17f15a879f41995417e20f0d",
       "gz": false,
-      "b": "ccc87a111ed14f35acf22cff13a2fe57f14ca309"
+      "b": "91f21902b78d69ca17f15a879f41995417e20f0d"
+    },
+    "chatSettings.json": {
+      "h": "g:fea4d5cd7fc947c5172adadfedc65891dfe7a623",
+      "gz": false,
+      "b": "fea4d5cd7fc947c5172adadfedc65891dfe7a623"
     },
     "messages_chunk_0.json": {
       "h": "g:4bebcc9483a5056c025b8b616ed86efad4002b99",
@@ -316,6 +316,11 @@
       "h": "g:7c77142ef29f5a83c1c56963250a8b6c4f021f1c",
       "gz": false,
       "b": "7c77142ef29f5a83c1c56963250a8b6c4f021f1c"
+    },
+    "userState.json": {
+      "h": "g:782909f363f7e5835f1a26d6c6df4f5f69324197",
+      "gz": false,
+      "b": "782909f363f7e5835f1a26d6c6df4f5f69324197"
     },
     "messages_chunk_3.json": {
       "h": "g:fb700a7cb92386dbe92756d4b1634a9cb0975836",
@@ -366,11 +371,6 @@
       "h": "g:11c8824467ba450c3dc6c5e0918709994dd74570",
       "gz": false,
       "b": "11c8824467ba450c3dc6c5e0918709994dd74570"
-    },
-    "chatSettings.json": {
-      "h": "g:0b1fb332053a06e71e7c409a508302f56d5f6de4",
-      "gz": false,
-      "b": "0b1fb332053a06e71e7c409a508302f56d5f6de4"
     },
     "messages_chunk_13.json": {
       "h": "g:b98f0e00c198e3ae1a6605b962dc9668e4e27bfe",
@@ -3243,9 +3243,9 @@
       "b": "7342fb6c802b52c7de8fabb28d917887b8b0dd3e"
     },
     "messages_chunk_587.json": {
-      "h": "g:39de8bc7c8be43f1c4480051f59b233f5c948d8d",
+      "h": "g:7acc34ae5ad26502f71377fcf049239b7e5c5862",
       "gz": false,
-      "b": "39de8bc7c8be43f1c4480051f59b233f5c948d8d"
+      "b": "7acc34ae5ad26502f71377fcf049239b7e5c5862"
     },
     "favorites_chunk_0.json": {
       "h": "g:694a2a2d3768a7986e67db2e9919d0f2fec68071",
@@ -3262,10 +3262,15 @@
       "gz": false,
       "b": "3a6f1928e69260a610e963bf64a9a8dc800e097e"
     },
-    "memory.json": {
-      "h": "g:1d91da25bf321a978024155fd9b196b62c610338",
+    "summaryEntries_chunk_0.json": {
+      "h": "g:963b3bd67c3d306902f62c50d1352130baeec29f",
       "gz": false,
-      "b": "1d91da25bf321a978024155fd9b196b62c610338"
+      "b": "963b3bd67c3d306902f62c50d1352130baeec29f"
+    },
+    "memory.json": {
+      "h": "g:7c7e9326a64bf3ad2e3252e33c4be5900d0e587f",
+      "gz": false,
+      "b": "7c7e9326a64bf3ad2e3252e33c4be5900d0e587f"
     },
     "callLogs.json": {
       "h": "g:20e1c08bdb0bf9f1b0df25d2ba01f82a1a79bc3b",
@@ -3317,15 +3322,10 @@
       "gz": false,
       "b": "be58229d7b10a0c7b1b9157c528f69a3cba7b9d0"
     },
-    "summaryEntries_chunk_0.json": {
-      "h": "g:9769023d1e8bb6d4e8bd8eec02d42697a5cde231",
+    "tmSessions_chunk_1.json": {
+      "h": "g:b40b6921e60c4609f7361f7ab6135ae86962b2ab",
       "gz": false,
-      "b": "9769023d1e8bb6d4e8bd8eec02d42697a5cde231"
-    },
-    "summaryEntries_chunk_1.json": {
-      "h": "g:e28727c7b2ea0468d816e52f18e92b03c480d513",
-      "gz": false,
-      "b": "e28727c7b2ea0468d816e52f18e92b03c480d513"
+      "b": "b40b6921e60c4609f7361f7ab6135ae86962b2ab"
     },
     "tmStories_chunk_0.json": {
       "h": "g:c280f8333a4f6bd0ee3281556638503d332f76f2",
@@ -3342,15 +3342,15 @@
       "gz": false,
       "b": "1b91278313ed40f77d42f2ded698c888c8024af0"
     },
-    "tmSessions_chunk_1.json": {
-      "h": "g:ec9a1064522f77b06d1d0e775d7efdf1ea404de0",
-      "gz": false,
-      "b": "ec9a1064522f77b06d1d0e775d7efdf1ea404de0"
-    },
     "tmStories_chunk_3.json": {
       "h": "g:d18f10ceacff0659a9974477f5a96e0f36601f9c",
       "gz": false,
       "b": "d18f10ceacff0659a9974477f5a96e0f36601f9c"
+    },
+    "summaryEntries_chunk_1.json": {
+      "h": "g:6005ebf7b8298092b06526b4efbd420f4720fb46",
+      "gz": false,
+      "b": "6005ebf7b8298092b06526b4efbd420f4720fb46"
     },
     "tmStories_chunk_4.json": {
       "h": "g:762421c50a388a2d8d53701d298a938f0f46f941",
@@ -3392,6 +3392,16 @@
       "gz": false,
       "b": "1422a89f17dfa117c1e09b28e022747adbc90450"
     },
+    "tmStories_chunk_12.json": {
+      "h": "g:4c9626398242a37aa84560c3881b7e590edc88dc",
+      "gz": false,
+      "b": "4c9626398242a37aa84560c3881b7e590edc88dc"
+    },
+    "tmStories_chunk_13.json": {
+      "h": "g:e612f639aabb60efaf3e0ff3b871ac482904e74e",
+      "gz": false,
+      "b": "e612f639aabb60efaf3e0ff3b871ac482904e74e"
+    },
     "multiSceneSessions.json": {
       "h": "g:437cbf4a9cb2203d6186f0da450b78ef6d30e518",
       "gz": false,
@@ -3432,10 +3442,10 @@
       "gz": false,
       "b": "081f5832dcfc44ed1453c1a0ceae11f6d80d407e"
     },
-    "tmStories_chunk_13.json": {
-      "h": "g:894fe6430fa9e6008a8bdec79502ddeeaa63cb26",
+    "groupSettings.json": {
+      "h": "g:d2bff351cdd92cc801f0d677c594adff927c59d4",
       "gz": false,
-      "b": "894fe6430fa9e6008a8bdec79502ddeeaa63cb26"
+      "b": "d2bff351cdd92cc801f0d677c594adff927c59d4"
     },
     "userLinks.json": {
       "h": "g:dcf3593ac0b4838317a4687647ab150ee05679b7",
@@ -3453,19 +3463,19 @@
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
     "forumData.json": {
-      "h": "g:b2f2bfd6a0d5fc947760d98e5bc414e5fae38fe3",
+      "h": "g:32c8fbc2e1c00e585dba0c714107ecfa75d2a9cf",
       "gz": false,
-      "b": "b2f2bfd6a0d5fc947760d98e5bc414e5fae38fe3"
+      "b": "32c8fbc2e1c00e585dba0c714107ecfa75d2a9cf"
     },
     "forumItems.json": {
-      "h": "g:98ff6001f40ab3a88665d819289ab6bf5955d3fc",
+      "h": "g:3680b78d4987d459d24ddd337bdc0e7a3d880da8",
       "gz": false,
-      "b": "98ff6001f40ab3a88665d819289ab6bf5955d3fc"
+      "b": "3680b78d4987d459d24ddd337bdc0e7a3d880da8"
     },
-    "groupSettings.json": {
-      "h": "g:d2bff351cdd92cc801f0d677c594adff927c59d4",
+    "calendarData.json": {
+      "h": "g:1c23592767d80620eb9427a4f0c4dcbdea51c8ca",
       "gz": false,
-      "b": "d2bff351cdd92cc801f0d677c594adff927c59d4"
+      "b": "1c23592767d80620eb9427a4f0c4dcbdea51c8ca"
     },
     "customCalendars.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -3477,10 +3487,10 @@
       "gz": false,
       "b": "ffbc055cc3f34c252f62ef4cb635bff404478340"
     },
-    "tmStories_chunk_12.json": {
-      "h": "g:4c9626398242a37aa84560c3881b7e590edc88dc",
+    "xinsheng.json": {
+      "h": "g:56bf94508fb4093d51cbb163d037160dfa958bd6",
       "gz": false,
-      "b": "4c9626398242a37aa84560c3881b7e590edc88dc"
+      "b": "56bf94508fb4093d51cbb163d037160dfa958bd6"
     },
     "xinshengRounds_chunk_0.json": {
       "h": "g:cccfd4fd750b91f3a2f2a71687238d99e9906fbb",
@@ -3492,20 +3502,15 @@
       "gz": false,
       "b": "8482da7921fec35bf8047d106ad9f7e59d16307d"
     },
-    "calendarData.json": {
-      "h": "g:143d430819ad540d4792d1125f5ac66b30e47438",
-      "gz": false,
-      "b": "143d430819ad540d4792d1125f5ac66b30e47438"
-    },
-    "xinsheng.json": {
-      "h": "g:56bf94508fb4093d51cbb163d037160dfa958bd6",
-      "gz": false,
-      "b": "56bf94508fb4093d51cbb163d037160dfa958bd6"
-    },
     "xinshengRounds_chunk_2.json": {
       "h": "g:10d36922e881635d4c5ecdc44b149a417d92163c",
       "gz": false,
       "b": "10d36922e881635d4c5ecdc44b149a417d92163c"
+    },
+    "xinshengRounds_chunk_3.json": {
+      "h": "g:99d023195b01778fdd34f0b73c8d5895ee7e1050",
+      "gz": false,
+      "b": "99d023195b01778fdd34f0b73c8d5895ee7e1050"
     },
     "pomodoroSessions.json": {
       "h": "g:a42c897419940d0343221ab5e3b0c8d5d8035a25",
@@ -3542,15 +3547,10 @@
       "gz": false,
       "b": "7584a5807b44ec397c0f5e46f22786255d5a5392"
     },
-    "xinshengRounds_chunk_3.json": {
-      "h": "g:99d023195b01778fdd34f0b73c8d5895ee7e1050",
-      "gz": false,
-      "b": "99d023195b01778fdd34f0b73c8d5895ee7e1050"
-    },
     "couplesData.json": {
-      "h": "g:b68c1e45cd961889dbb7a829d3636721e43aec73",
+      "h": "g:e5bbe936ab548b7730a64cdad29e2c339c996ea4",
       "gz": false,
-      "b": "b68c1e45cd961889dbb7a829d3636721e43aec73"
+      "b": "e5bbe936ab548b7730a64cdad29e2c339c996ea4"
     },
     "imageStore_chunk_6.json": {
       "h": "g:530ffb68e505c5a2b9e57ac9a0e18b181418cb67",
@@ -4327,6 +4327,166 @@
       "gz": false,
       "b": "0b6625e89f7cc15089ab97ca60364f0568fe7f45"
     },
+    "imageStore_chunk_161.json": {
+      "h": "g:9304ea0f0b8dd0f618ac356465ce597ae82299ca",
+      "gz": false,
+      "b": "9304ea0f0b8dd0f618ac356465ce597ae82299ca"
+    },
+    "imageStore_chunk_162.json": {
+      "h": "g:a6a1ec8ff125a75a5d19f3f424f7f04c605d6748",
+      "gz": false,
+      "b": "a6a1ec8ff125a75a5d19f3f424f7f04c605d6748"
+    },
+    "imageStore_chunk_163.json": {
+      "h": "g:a285d0ccb4bfff9ba118c6b5a30e608f2dcb88c1",
+      "gz": false,
+      "b": "a285d0ccb4bfff9ba118c6b5a30e608f2dcb88c1"
+    },
+    "imageStore_chunk_164.json": {
+      "h": "g:6a650ec97f9323ca0059bf7453f1dce1fbfde10e",
+      "gz": false,
+      "b": "6a650ec97f9323ca0059bf7453f1dce1fbfde10e"
+    },
+    "imageStore_chunk_165.json": {
+      "h": "g:7ef507f5820a1f26a04a7484e79f446bb1a05c8f",
+      "gz": false,
+      "b": "7ef507f5820a1f26a04a7484e79f446bb1a05c8f"
+    },
+    "imageStore_chunk_166.json": {
+      "h": "g:772d44df2974c134fd759d69a5c190ba3ee885e4",
+      "gz": false,
+      "b": "772d44df2974c134fd759d69a5c190ba3ee885e4"
+    },
+    "imageStore_chunk_167.json": {
+      "h": "g:55fcdc205ceaa5e77c4b45f8b93d93829c70702b",
+      "gz": false,
+      "b": "55fcdc205ceaa5e77c4b45f8b93d93829c70702b"
+    },
+    "imageStore_chunk_168.json": {
+      "h": "g:af4fcdd43de2daeeea1de3d0c314d878866ac1e7",
+      "gz": false,
+      "b": "af4fcdd43de2daeeea1de3d0c314d878866ac1e7"
+    },
+    "imageStore_chunk_169.json": {
+      "h": "g:b1fb91b5893dac1e6e44f5b2d63edd1b75f5e98d",
+      "gz": false,
+      "b": "b1fb91b5893dac1e6e44f5b2d63edd1b75f5e98d"
+    },
+    "imageStore_chunk_170.json": {
+      "h": "g:ede34b109419c336f89a09a1cc526267f001001a",
+      "gz": false,
+      "b": "ede34b109419c336f89a09a1cc526267f001001a"
+    },
+    "imageStore_chunk_171.json": {
+      "h": "g:81e402b89d845c27973bbbad942d7436a72b29ee",
+      "gz": false,
+      "b": "81e402b89d845c27973bbbad942d7436a72b29ee"
+    },
+    "imageStore_chunk_172.json": {
+      "h": "g:d691f9fa6be9399b62a78a2a7d813f4174ca295b",
+      "gz": false,
+      "b": "d691f9fa6be9399b62a78a2a7d813f4174ca295b"
+    },
+    "imageStore_chunk_173.json": {
+      "h": "g:85a73b1feca12e77068d8a2ecc14232a26033891",
+      "gz": false,
+      "b": "85a73b1feca12e77068d8a2ecc14232a26033891"
+    },
+    "imageStore_chunk_174.json": {
+      "h": "g:ab8f334b4ae2eb32631e42bf38d47af1989e3a9f",
+      "gz": false,
+      "b": "ab8f334b4ae2eb32631e42bf38d47af1989e3a9f"
+    },
+    "imageStore_chunk_176.json": {
+      "h": "g:4060052b51354b49764d07b490ceb725b22e5af8",
+      "gz": false,
+      "b": "4060052b51354b49764d07b490ceb725b22e5af8"
+    },
+    "imageStore_chunk_177.json": {
+      "h": "g:00769c407c8b10408ae258c6ef637f81ed708d77",
+      "gz": false,
+      "b": "00769c407c8b10408ae258c6ef637f81ed708d77"
+    },
+    "imageStore_chunk_178.json": {
+      "h": "g:755951d3e087b9851f4438284234fb3fe6179bdc",
+      "gz": false,
+      "b": "755951d3e087b9851f4438284234fb3fe6179bdc"
+    },
+    "imageStore_chunk_179.json": {
+      "h": "g:657eb59e0b8b27c6a431a6882fed5162e4e87837",
+      "gz": false,
+      "b": "657eb59e0b8b27c6a431a6882fed5162e4e87837"
+    },
+    "imageStore_chunk_180.json": {
+      "h": "g:eadb7d6be0904378548085e72056159049be1016",
+      "gz": false,
+      "b": "eadb7d6be0904378548085e72056159049be1016"
+    },
+    "imageStore_chunk_181.json": {
+      "h": "g:547a412b66c9eafe7840138469b20ea7eb90774b",
+      "gz": false,
+      "b": "547a412b66c9eafe7840138469b20ea7eb90774b"
+    },
+    "imageStore_chunk_182.json": {
+      "h": "g:302ecb327d4192b11c300af15f8ef181525294f9",
+      "gz": false,
+      "b": "302ecb327d4192b11c300af15f8ef181525294f9"
+    },
+    "imageStore_chunk_183.json": {
+      "h": "g:1492fcc86476ff370588aee9a0eb4a8681c2f4c3",
+      "gz": false,
+      "b": "1492fcc86476ff370588aee9a0eb4a8681c2f4c3"
+    },
+    "imageStore_chunk_184.json": {
+      "h": "g:ecbf927e7d864d9245bf0e46e2695ac0d8b5c0b3",
+      "gz": false,
+      "b": "ecbf927e7d864d9245bf0e46e2695ac0d8b5c0b3"
+    },
+    "imageStore_chunk_175.json": {
+      "h": "g:ef5d6a94117dbb4cc6f510da58ce2a569bc818d1",
+      "gz": false,
+      "b": "ef5d6a94117dbb4cc6f510da58ce2a569bc818d1"
+    },
+    "imageStore_chunk_186.json": {
+      "h": "g:a3f940dddd4fd5fa50d51be6914cbc686257c1e2",
+      "gz": false,
+      "b": "a3f940dddd4fd5fa50d51be6914cbc686257c1e2"
+    },
+    "imageStore_chunk_187.json": {
+      "h": "g:d13b909c630d1d9e155dcc9c95c29dfb53893deb",
+      "gz": false,
+      "b": "d13b909c630d1d9e155dcc9c95c29dfb53893deb"
+    },
+    "imageStore_chunk_185.json": {
+      "h": "g:37988d8db441ff59e8dc34885418abb8b7668932",
+      "gz": false,
+      "b": "37988d8db441ff59e8dc34885418abb8b7668932"
+    },
+    "imageStore_chunk_189.json": {
+      "h": "g:48d7cc5d91940ce931a325ab1e8627df19ed14c0",
+      "gz": false,
+      "b": "48d7cc5d91940ce931a325ab1e8627df19ed14c0"
+    },
+    "imageStore_chunk_188.json": {
+      "h": "g:2182d15557b0ac4a7bc93e5f5d26b5b49a0ae1d4",
+      "gz": false,
+      "b": "2182d15557b0ac4a7bc93e5f5d26b5b49a0ae1d4"
+    },
+    "imageStore_chunk_190.json": {
+      "h": "g:fd1ec6a29c6ae3d71f60b324f727d66b52e65365",
+      "gz": false,
+      "b": "fd1ec6a29c6ae3d71f60b324f727d66b52e65365"
+    },
+    "imageStore_chunk_191.json": {
+      "h": "g:a9a6e007a044dc0e2559dcd1e9512a5c302a4536",
+      "gz": false,
+      "b": "a9a6e007a044dc0e2559dcd1e9512a5c302a4536"
+    },
+    "imageStore_chunk_192.json": {
+      "h": "g:4f672a754f4ce72c8ddded82776ec8ca4e285e8d",
+      "gz": false,
+      "b": "4f672a754f4ce72c8ddded82776ec8ca4e285e8d"
+    },
     "stickerStore_chunk_0.json": {
       "h": "g:d461d35805f658edd76b37903a3f5cd1bfd30973",
       "gz": false,
@@ -4427,10 +4587,10 @@
       "gz": false,
       "b": "e2fdd5a7b1669badd29ac766d7e0cdda847f7384"
     },
-    "customGameSaves.json": {
-      "h": "g:c5355b7abdcd8fd5c1d62628426dbf4b22427034",
+    "imageStore_chunk_193.json": {
+      "h": "g:37a70ac402143beb21b7d0959551210cd5daca7b",
       "gz": false,
-      "b": "c5355b7abdcd8fd5c1d62628426dbf4b22427034"
+      "b": "37a70ac402143beb21b7d0959551210cd5daca7b"
     },
     "customWidgetTemplates.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -4507,11 +4667,6 @@
       "gz": false,
       "b": "c32e5224a72ba5d07c3c1ebf714d1011f83cc3fe"
     },
-    "imageStore_chunk_161.json": {
-      "h": "g:0518795fcf2ce722e440a44cd5934179e185ee6d",
-      "gz": false,
-      "b": "0518795fcf2ce722e440a44cd5934179e185ee6d"
-    },
     "thinkingStore_chunk_4.json": {
       "h": "g:ca5dd1c18d570694b447bcf2898ad70935718ede",
       "gz": false,
@@ -4546,6 +4701,16 @@
       "h": "g:3894cd8fb1349923289db2a4ae61243f2092080f",
       "gz": false,
       "b": "3894cd8fb1349923289db2a4ae61243f2092080f"
+    },
+    "customGameSaves.json": {
+      "h": "g:4b432ab44675712788f8f01ed4095fa113676afe",
+      "gz": false,
+      "b": "4b432ab44675712788f8f01ed4095fa113676afe"
+    },
+    "imageStore_chunk_194.json": {
+      "h": "g:6c75372e523bb2b3eecfb6ade8f797b63ea50ba1",
+      "gz": false,
+      "b": "6c75372e523bb2b3eecfb6ade8f797b63ea50ba1"
     },
     "thinkingStore_chunk_11.json": {
       "h": "g:37dd62021a608dc6ef8de6620511097fe6260522",
@@ -4657,11 +4822,6 @@
       "gz": false,
       "b": "73ee2ff8c6280dc5b88a39fe4b415bece0bdac43"
     },
-    "characterLifeState.json": {
-      "h": "g:faa0da2bd8de0aac395496b99c3fd53befb1fe73",
-      "gz": false,
-      "b": "faa0da2bd8de0aac395496b99c3fd53befb1fe73"
-    },
     "rowFieldItems_chunk_1.json": {
       "h": "g:909f842d631c47e31d3f797d51d9ef65ce8af54e",
       "gz": false,
@@ -4672,10 +4832,15 @@
       "gz": false,
       "b": "f2e59fc8fb9b156d8dd644f24c38b97f98f672c6"
     },
-    "thinkingStore_chunk_18.json": {
-      "h": "g:d5394d76fc96d0a77ad22f0858c8f1cb21bd8ce7",
+    "rowFieldItems_chunk_3.json": {
+      "h": "g:f273bbb0137a9dd310bd42af7ff65026416c3308",
       "gz": false,
-      "b": "d5394d76fc96d0a77ad22f0858c8f1cb21bd8ce7"
+      "b": "f273bbb0137a9dd310bd42af7ff65026416c3308"
+    },
+    "characterLifeState.json": {
+      "h": "g:9886b4879a8dc280378e204424b444a5df4fd14c",
+      "gz": false,
+      "b": "9886b4879a8dc280378e204424b444a5df4fd14c"
     },
     "coReadQuotes.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -4782,6 +4947,11 @@
       "gz": false,
       "b": "a3b99fe3a52526b72059529be7e77811d19f408e"
     },
+    "chatVariables.json": {
+      "h": "g:53bb399e5d86a7ca44145591386ae8c3b739356a",
+      "gz": false,
+      "b": "53bb399e5d86a7ca44145591386ae8c3b739356a"
+    },
     "plugins.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
@@ -4792,20 +4962,20 @@
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
-    "assets.json": {
-      "h": "g:9be2536b03642db295d8147ebdec8c10bd295457",
+    "thinkingStore_chunk_18.json": {
+      "h": "g:009e7ea730b2a5e3db9817106887ab73526e2189",
       "gz": false,
-      "b": "9be2536b03642db295d8147ebdec8c10bd295457"
+      "b": "009e7ea730b2a5e3db9817106887ab73526e2189"
     },
     "pluginAssets.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
-    "pluginData.json": {
-      "h": "g:68f751635875fa3f4b7ba39d93fefe80e9afc058",
+    "assets_chunk_0.json": {
+      "h": "g:861794a5304e47509f150765f149d74d96270163",
       "gz": false,
-      "b": "68f751635875fa3f4b7ba39d93fefe80e9afc058"
+      "b": "861794a5304e47509f150765f149d74d96270163"
     },
     "chatSettingsPresets.json": {
       "h": "g:55427584b814d8b04b27cfc9d6fbba4f8dacb114",
@@ -4827,20 +4997,25 @@
       "gz": false,
       "b": "e3f66fb2d1b90ff06f634ef8d9d394a8beaaa4f8"
     },
-    "chatVariables.json": {
-      "h": "g:53bb399e5d86a7ca44145591386ae8c3b739356a",
+    "assets_chunk_1.json": {
+      "h": "g:a8e53afcd61ab0ae53a798bfe790195d44836c8c",
       "gz": false,
-      "b": "53bb399e5d86a7ca44145591386ae8c3b739356a"
+      "b": "a8e53afcd61ab0ae53a798bfe790195d44836c8c"
     },
-    "rowFieldItems_chunk_3.json": {
-      "h": "g:f273bbb0137a9dd310bd42af7ff65026416c3308",
+    "pluginData.json": {
+      "h": "g:6c4110ad54aba6765528266bde3b194370f470d1",
       "gz": false,
-      "b": "f273bbb0137a9dd310bd42af7ff65026416c3308"
+      "b": "6c4110ad54aba6765528266bde3b194370f470d1"
     },
     "rowFieldItems_chunk_4.json": {
-      "h": "g:76689a50c7510a48a2ce819796cab44b2a6c3e30",
+      "h": "g:7be89635862c1a1c53d9ad58ca30d5b8716bf3e5",
       "gz": false,
-      "b": "76689a50c7510a48a2ce819796cab44b2a6c3e30"
+      "b": "7be89635862c1a1c53d9ad58ca30d5b8716bf3e5"
+    },
+    "imageStore_chunk_195.json": {
+      "h": "g:e63aaab2d01ea55d27fa3f7f88cdb95ff3d2bade",
+      "gz": false,
+      "b": "e63aaab2d01ea55d27fa3f7f88cdb95ff3d2bade"
     }
   }
 }
